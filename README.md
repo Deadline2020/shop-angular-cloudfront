@@ -29,3 +29,9 @@ Follow the steps:
 - git clone
 - npm i
 - ng serve
+
+## Application links
+
+- S3 bucket link (returns 403 error code) - http://manga-world-dag-aws-bucket.s3-website-eu-west-1.amazonaws.com/
+
+- CloudFront link - https://d5zjsfcjflfff.cloudfront.net/
